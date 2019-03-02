@@ -16,4 +16,5 @@ At School of Data, we'll talk about how the New York City Council Data Team uses
 
 ### Presentation
 The presentation is School of Data 2019.pdf
+<br>
 The other files are supporting images
