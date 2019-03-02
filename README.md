@@ -13,3 +13,7 @@ The Data Team also uses data to conduct oversight of City Agencies.
 We source datasets, create data analysis and models, maps, and dashboards to assist Council staff and Council Members to use data to make decisions. Our unique strength is in marrying data with public policy making. 
 
 At School of Data, we'll talk about how the New York City Council Data Team uses data to make informed decisions and how you can too.
+
+### Presentation
+The presentation is School of Data 2019.pdf
+The other files are supporting images
