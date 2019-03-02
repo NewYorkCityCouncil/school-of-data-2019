@@ -2,7 +2,8 @@
 Presentation given at the School of Data Conference March 2, 2019
 
 
-# Using Data to Improve the Laws of New York City facilitated by New York City Council's Data Team
+## Using Data to Improve the Laws of New York City 
+### Facilitated by New York City Council's Data Team
 Learn how the New York City Council’s new Data Team uses a data-driven approach to improve the New York City Council’s policy making process. 
 
 The New York City Council Data Team answers policy questions and informs laws about everything from public housing residents’ heat, to school bus delays, and marijuana arrests. 
